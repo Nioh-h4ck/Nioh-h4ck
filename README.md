@@ -33,7 +33,7 @@ Exploring the fascinating realm of backend development and ethical hacking, wher
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox-browser&logoColor=white)
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
